@@ -1,0 +1,3 @@
+2025-12-28T17:26:57.663169-05:00 kali sudo:    eljay : TTY=pts/0 ; PWD=/home/eljay/Desktop ; USER=root ; COMMAND=/usr/bin/grep 'failed password' /var/log/auth.log
+2025-12-28T17:30:31.089161-05:00 kali sudo:    eljay : TTY=pts/0 ; PWD=/home/eljay/Desktop ; USER=root ; COMMAND=/usr/bin/grep 'failed password' /var/log/auth.log
+2025-12-28T20:15:24.938183-05:00 kali sudo:    eljay : TTY=pts/1 ; PWD=/home/eljay/Desktop/SOC-DFIR-Portfolio ; USER=root ; COMMAND=/usr/bin/grep 'failed password' /var/log/auth.log
